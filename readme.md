@@ -20,7 +20,7 @@ Please cite the publication below in all your documents and manuscripts that mad
   publisher={Elsevier}
 }
 ```
-## Prerequisites
+### Prerequisites
 Matlab 2013a (The Mathworks Inc., www.mathworks,com) or later.
 
 ### Running the code
@@ -35,7 +35,7 @@ By pushing the "Load" button, a window will pop up asking to choose the image fi
 The image and the estimated boundaries and area will then appear in the main window. The two sliders can be interactively adjusted to fill gaps in the contour and provide a reliable estimation of the wound area.
  Clicking the "Measure" button will provide the quantification of geometric estimators. If a calibration is not provided, dimensional estimators will be given in pixels.
 
-!["The woundaries GUI"](woundaries.png).
+!["The woundaries GUI"](woundaries.png)
 
 ### Area calibration
 By pushing the "Calibrate" button, a window will pop up allowing to select the area of the grid corresponding to a square centimeter. Once this operation is performed, the software will automatically calculate the geometric estimators of the wound in the correct units.
