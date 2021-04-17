@@ -1,5 +1,5 @@
 # woundaries
-A Matlab GUI to fit to calculate area and other geometric estimators of wound from digitized hand-traced planimetries. 
+A Matlab GUI to calculate area and other geometric estimators of wound from digitized hand-traced planimetries. 
 Two sliders must be iteratively adjusted to match the wound outline. Calibration can be obtained from the underlying grid. 
 
 ## Reference
