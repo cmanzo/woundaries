@@ -1,6 +1,24 @@
 # woundaries
 A Matlab GUI to fit to calculate area and other geometric estimators of wound from digitized hand-traced planimetries. 
-To sliders are used to obtain the . Calibration can be obtained from the underlying grid. 
+Two sliders must be iteratively adjusted to match the wound outline. Calibration can be obtained from the underlying grid. 
+
+## Reference
+Please cite the publication below in all your documents and manuscripts that made use of the software included in this repository.
+> #### A toolkit for the quantitative evaluation of chronic wounds evolution for early detection of non-healing wounds
+> ###### Cullell-Dalmau, M., Otero-Viñas, M., Ferrer-Solà, M., Sureda-Vidal, H., and Manzo, C.
+> ###### *Journal of Tissue Viability* (2021)
+> ###### doi: 10.1016/j.jtv.2021.02.009
+> ###### [Link to Journal of Tissue Viability](https://www.sciencedirect.com/science/article/abs/pii/S0965206X21000279)
+
+#### *BibTeX*
+```
+@article{cullell2021toolkit,
+  title={A toolkit for the quantitative evaluation of chronic wounds evolution for early detection of non-healing wounds},
+  author={Cullell-Dalmau, Marta and Otero-Vi{\~n}as, Marta and Ferrer-Sol{\`a}, Marta and Sureda-Vidal, Helena and Manzo, Carlo},
+  journal={Journal of Tissue Viability},
+  year={2021},
+  publisher={Elsevier}
+}
 
 ## Prerequisites
 Matlab 2013a (The Mathworks Inc., www.mathworks,com) or later.
